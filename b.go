@@ -7,6 +7,6 @@ import (
 )
 
 func B() {
-	a.AA()
+	a.C()
 	fmt.Println("b")
 }

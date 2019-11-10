@@ -1,2 +1,6 @@
 github.com/cssivision/a v0.0.0-20191110081229-5126b1859420 h1:Zm4V2quyuuu0aHnkMZalu2mY6212ezywTTtmm3D4LIM=
 github.com/cssivision/a v0.0.0-20191110081229-5126b1859420/go.mod h1:9C+uGdqPu3OZCJO4/Gf61OA68Cw3jRbe/BKyWSd2L0k=
+github.com/cssivision/a v0.1.0 h1:/I23j3kEyN74B0WCIJwJWrIhSMWdEv00Flf+/18quJk=
+github.com/cssivision/a v0.1.0/go.mod h1:9C+uGdqPu3OZCJO4/Gf61OA68Cw3jRbe/BKyWSd2L0k=
+github.com/cssivision/a v0.1.1-0.20191110084107-47d324342f83 h1:yHc+rPqZlvuIBWzXkxOpUp3+K4RJPjgJecZAAdBjzfI=
+github.com/cssivision/a v0.1.1-0.20191110084107-47d324342f83/go.mod h1:9C+uGdqPu3OZCJO4/Gf61OA68Cw3jRbe/BKyWSd2L0k=
